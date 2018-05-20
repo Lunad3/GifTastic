@@ -13,6 +13,10 @@ body{
     height: fit-content;
     float:left;
 }
+.gif{
+    margin: 10px;
+
+}
 #searchDiv{
     position: relative;
     background-color: lightgreen;
